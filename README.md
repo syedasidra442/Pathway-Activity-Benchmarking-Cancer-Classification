@@ -19,3 +19,5 @@ with ssGSEA, GSVA or Z-score yielded the most reproducible and biologically cohe
 signatures. The aim of this study is to provide a rigorous and reproducibility focused comparison
 of pathway scoring methods to assist researchers in selecting appropriate methods for their own
 data and to highlight the remaining issues in the field.
+
+Co-authors: Syeda Sidra and Ananya Vakkalanka 
